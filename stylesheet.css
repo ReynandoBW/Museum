@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(3, 199, 140);
+}
+
+img{
+    max-width: 100%;
+}
+
+.sansserif {
+    font-family: "Comic Sans MS";
+}
+
+h1{
+    background-color: rgb(3, 152, 211);
+    color: rgb(140, 0, 255);
+}
